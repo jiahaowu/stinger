@@ -29,3 +29,5 @@
 
 *.pickle
 /flask/stinger_paths.py
+
+compile_commands.json
